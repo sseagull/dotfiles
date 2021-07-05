@@ -7,3 +7,4 @@
 - [ ] Trackpad (three finger drag and tap to click)
 - [ ] .zshrc
 - [ ] git config (user/email/keychain)
+- [ ] Homebrew install
