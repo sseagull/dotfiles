@@ -10,5 +10,10 @@
 
 - create:
     - ~/Sites
-# - shell:
-#  - [git submodule update --init --recursive, Installing submodules]
+
+- shell:
+    #  - [git submodule update --init --recursive, Installing submodules]
+    - echo "hey you guys"
+    - command: ./test.zsh
+      stdout: true
+      stderr: true
