@@ -1,5 +1,6 @@
 # Aliases
-alias ls='ls -lAFh'
+alias ls='exa -laFh --git'
+alias exa='exa -laFh --git'
 
 # Prompt
 PROMPT='
