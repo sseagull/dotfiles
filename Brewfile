@@ -1,17 +1,14 @@
-# taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-
-# Brews (Packages)
 brew "bat"
-brew "httpie"
 brew "exa"
+brew "httpie"
 brew "n"
-
-# Casks (applications)
 cask "alfred"
+cask "dropbox"
 cask "firefox"
+cask "gitkraken"
 cask "google-chrome"
 cask "studio-3t"
 cask "viscosity"
