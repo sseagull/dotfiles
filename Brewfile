@@ -7,6 +7,8 @@ brew "bat"
 brew "exa"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Mac App Store command-line interface
+brew "mas"
 # Node version management
 brew "n"
 # Application launcher and productivity software
@@ -15,8 +17,6 @@ cask "alfred"
 cask "dropbox"
 # Web browser
 cask "firefox"
-# Git client focusing on productivity
-cask "gitkraken"
 # Web browser
 cask "google-chrome"
 # IDE, client, and GUI for MongoDB
@@ -25,3 +25,7 @@ cask "studio-3t"
 cask "viscosity"
 # Open-source code editor
 cask "visual-studio-code"
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
