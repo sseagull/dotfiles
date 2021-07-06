@@ -7,8 +7,10 @@ echo '\n<<< Starting Homebrew Setup >>>\n'
 brew install httpie
 brew install bat
 
-brew install --cask firefox
-brew install --cask google-chrome
-brew install --cask visual-studio-code
-brew install --cask studio-3t
-brew install --cask viscosity
+
+brew install --cask --no-quarantine alfred
+brew install --cask --no-quarantine firefox
+brew install --cask --no-quarantine google-chrome
+brew install --cask --no-quarantine visual-studio-code
+brew install --cask --no-quarantine studio-3t
+brew install --cask --no-quarantine viscosity
