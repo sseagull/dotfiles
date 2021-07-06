@@ -19,13 +19,14 @@ cask "dropbox"
 cask "firefox"
 # Web browser
 cask "google-chrome"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
 # IDE, client, and GUI for MongoDB
 cask "studio-3t"
 # VPN client for secure internet access and private browsing
 cask "viscosity"
 # Open-source code editor
 cask "visual-studio-code"
-mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
