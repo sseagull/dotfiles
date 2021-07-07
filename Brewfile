@@ -9,8 +9,12 @@ brew "exa"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Simple tool to make locally trusted development certificates
+brew "mkcert"
 # Node version management
 brew "n"
+# Libraries for security-enabled client and server applications
+brew "nss"
 # Application launcher and productivity software
 cask "alfred"
 # Client for the Dropbox cloud storage service
@@ -21,6 +25,8 @@ cask "firefox"
 cask "google-chrome"
 # Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
+# Music streaming service
+cask "spotify"
 # IDE, client, and GUI for MongoDB
 cask "studio-3t"
 # VPN client for secure internet access and private browsing
